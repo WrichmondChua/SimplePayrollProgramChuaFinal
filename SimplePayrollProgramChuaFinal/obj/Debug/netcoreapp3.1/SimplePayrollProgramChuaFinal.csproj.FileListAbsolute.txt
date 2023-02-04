@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\bin\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.exe
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\bin\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.deps.json
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\bin\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\bin\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\bin\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.dll
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\bin\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.pdb
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.Form1.resources
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.Payslip.resources
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.dll
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.pdb
+C:\Users\ADMIN\source\repos\SimplePayrollProgramChuaFinal\obj\Debug\netcoreapp3.1\SimplePayrollProgramChuaFinal.genruntimeconfig.cache
